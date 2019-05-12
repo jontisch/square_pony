@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>graphics/square_pony.png</file>
+        <file>graphics/square_pony_bow.png</file>
+        <file>maps/test.txt</file>
+        <file>graphics/coin.gif</file>
+        <file>sounds/jump.mp3</file>
+        <file>sounds/coin.mp3</file>
+        <file>graphics/tile.png</file>
+        <file>graphics/square_pony_walking.png</file>
+        <file>sounds/start.mp3</file>
+        <file>graphics/grass.png</file>
+        <file>sounds/start.wav</file>
+        <file>sounds/coin.wav</file>
+        <file>sounds/jump.wav</file>
+        <file>graphics/bush.png</file>
+        <file>graphics/cloud.png</file>
+        <file>graphics/polygon.png</file>
+    </qresource>
+</RCC>
