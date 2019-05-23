@@ -34,7 +34,8 @@ SOURCES += main.cpp\
     wrappingobject.cpp \
     selectablepolygonf.cpp \
     editorwidget.cpp \
-    enemy.cpp
+    enemy.cpp \
+    boxcollider.cpp
 
 HEADERS  += mainwindow.h \
     player.h \
@@ -46,7 +47,8 @@ HEADERS  += mainwindow.h \
     wrappingobject.h \
     selectablepolygonf.h \
     editorwidget.h \
-    enemy.h
+    enemy.h \
+    boxcollider.h
 
 FORMS    += mainwindow.ui
 
